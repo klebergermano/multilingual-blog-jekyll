@@ -3,7 +3,6 @@ layout: posts
 title: Teste de Post
 date: 2022-03-07 03:00:00 +0000
 categories: teste
-published: false
 
 ---
 ## What is Lorem Ipsum?
